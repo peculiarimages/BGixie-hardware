@@ -7,7 +7,7 @@ The design has two boards:
 - **Brain**: 5 V power input with protection, a Seeed XIAO ESP32-C3, and an isolated 12 V supply.
 - **HV board**: a 170 V supply and an HV5122 driver for three tubes. Boards can be cascaded.
 
-The EasyEDA design files will be added here. The BGixie software is not part of this repository.
+The EasyEDA project for both boards is in this repository: `BGixie-Modular-A3 (brain + HV PCBs)_2026-11-09_0.2.1.epro2` (version 0.2.1). Read [RELEASE-NOTES.md](RELEASE-NOTES.md) before building: it contains a required change to the HV board bleeder. The BGixie software is not part of this repository.
 
 **Warning:** the design contains a 170 V supply. Treat it as hazardous.
 
