@@ -20,6 +20,16 @@ PDF schematics of the brain and the HV board, rev A3, dated 2026-10-17:
 
 They show the HV board bleeder as R13 and R14, two 220 kΩ resistors; [RELEASE-NOTES.md](RELEASE-NOTES.md) describes the required change to 1 MΩ. The EasyEDA project (0.2.1, 2026-11-09) is the reference design. Each PDF carries the CERN-OHL-P-2.0 notice and has the full licence text attached.
 
+## Nixie 7.1 PCB drawings
+
+Drawings of the Nixie 7.1 PCB, exported 2026-11-23:
+
+- [Top assembly drawing](Nixie%207.1,%20top%20assembly%20drawing%20%282026-11-23%29.pdf)
+- [Bottom assembly drawing](Nixie%207.1,%20bottom%20assembly%20drawing%20%282026-11-23%29.pdf)
+- [Drill drawing](Nixie%207.1,%20drill%20drawing%20%282026-11-23%29.pdf)
+
+The pages are small, so zoom in to read them. The PCB file is `Nixie 7.1_2026-11-09.epro2`. Each PDF carries the CERN-OHL-P-2.0 notice and has the full licence text attached.
+
 ## Licence
 
 SPDX-License-Identifier: CERN-OHL-P-2.0
