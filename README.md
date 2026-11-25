@@ -15,6 +15,18 @@ The EasyEDA project for both boards is in this repository: `BGixie-Modular-A3 (b
 
 **Warning:** the design contains a 170 V supply. Treat it as hazardous.
 
+## PCBs
+
+3D renders of the two boards. Not every part appears in them.
+
+### Brain PCB
+
+<img src="images/bgixie-brain-pcb.webp" alt="3D render of the red BGixie brain PCB, with areas for USB-C power input, the XIAO ESP32-C3, a 5 V to 12 V boost, and the isolator" width="720">
+
+### HV PCB
+
+<img src="images/bgixie-hv-pcb.webp" alt="3D render of the red BGixie HV PCB, with the HV5122 socket footprint, headers for three digits, and the area for the 170 V module" width="480">
+
 ## Schematics
 
 PDF schematics of the brain and the HV board, rev A3, dated 2026-10-17:
