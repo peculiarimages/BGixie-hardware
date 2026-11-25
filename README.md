@@ -2,6 +2,10 @@
 
 Hardware design files for BGixie, a display that shows a live blood glucose value on Nixie tubes.
 
+<img src="images/bgixie-prototype.jpg" alt="A BGixie prototype: a square wooden case with three Nixie tubes set into the top" width="384">
+
+*A BGixie prototype in a wooden case.*
+
 The design has two boards:
 
 - **Brain**: 5 V power input with protection, a Seeed XIAO ESP32-C3, and an isolated 12 V supply.
